@@ -38,18 +38,6 @@ Admin can add, edit and remove new categories and products and  edit ads and ban
 
 ## Getting Started
 
-Clone the repository
-
-```
-git clone https://github.com/AhmedSemih/MERN-Stack-eCommerce-App.git
-```
-
-After getting the starter files, you must to go both file directories and run
-
-```
-npm install
-```
-
 You must assign environment variables for both and start the dev server
 
 ```
